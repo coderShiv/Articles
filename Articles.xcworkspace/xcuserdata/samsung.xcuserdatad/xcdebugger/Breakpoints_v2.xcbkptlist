@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Articles/Root/NetworkManager.swift"
+            timestampString = "614448008.903428"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "requestForType(page:serviceType:params:completionBlock:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #2 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in static Articles.NetworkManger.requestForType(page: Swift.Int32, serviceType: Articles.ServiceType, params: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, completionBlock: (Swift.Optional&lt;Swift.Array&lt;Any&gt;&gt;, Swift.Optional&lt;__C.NSError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Articles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samsung/Desktop/Articles/Articles/Root/NetworkManager.swift"
+                  timestampString = "614443224.817528"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "588">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #2 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in static Articles.NetworkManger.requestForType(page: Swift.Int32, serviceType: Articles.ServiceType, params: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, completionBlock: (Swift.Optional&lt;Swift.Array&lt;Any&gt;&gt;, Swift.Optional&lt;__C.NSError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Articles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/samsung/Desktop/Articles/Articles/Root/NetworkManager.swift"
+                  timestampString = "614443224.825717"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "592">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
